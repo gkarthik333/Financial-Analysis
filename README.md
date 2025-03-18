@@ -2,7 +2,7 @@
 
 This repository contains a financial analysis dashboard visualizing key financial performance indicators (KPIs) and profit breakdowns. The dashboard offers interactive exploration through year and month filters, providing insights into sales, orders, profit, and discount trends.
 
-## Key Highlights
+## Key Highlights       
 
 * **Strong Growth:** Significant year-over-year growth is observed in sales, orders, and profit.  (Specific percentages available in the dashboard).
 * **Increased Discounts:** A substantial rise in discounts correlates with the growth, suggesting a potential strategic focus on discounting.
